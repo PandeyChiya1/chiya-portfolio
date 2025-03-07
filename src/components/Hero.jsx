@@ -35,13 +35,11 @@ const Hero = () => {
 </p>
 
 <div className='my-8'>
-<a 
-  href="/public/chiyapandey.docx" 
-  download 
-  className="px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white"
->
+<a href="/chiyapandey.docx" download="ChiyaPandey_CV.docx" 
+   className="px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white">
   Download CV
 </a>
+
 
 
     <a href="#contact" className="px-6 py-3 w-full rounded-xl mr-4
