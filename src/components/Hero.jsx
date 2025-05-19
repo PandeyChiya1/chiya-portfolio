@@ -6,9 +6,7 @@ const Hero = () => {
   return (
     <div className='grid gird-cols-1 sm:grid-cols-3 gap-8 max-w-[1200px] h-[70vh] mx-auto py-8 bg-black'>
       
-    <div className='col-span-1 my-auto mx-auto w-[300px] md:h-auto lg:w-[400px]'>
-          <img src = {heroimage} alt="hero image"/>
-    </div>
+    
 
 <div className='col-span-2 px-5 my-auto'>
 
@@ -31,7 +29,7 @@ const Hero = () => {
     />
 </h1>
 <p className="text-white sm:text-lg my-6 lg:text-xl">
- My name is Chiya Pandey and I am a Final year student and having a good knowledge of frontend development
+ My name is Chiya Pandey and I am a Final year student and having a good knowledge of Full Stack Development
 </p>
 
 <div className='my-8'>
